@@ -10,7 +10,7 @@ With a background in tracking student metrics and building performance framework
 ---
 
 ### 🚀 What I'm Building Right Now
-*   **MorphoWrite:** A full-stack morphological analysis tool built with Python (Django), HTMX, and Alpine.js designed to break down and map prefixes, roots, and suffixes for language learners with future Ai enhanced features to guide studnets into learning skills like essay development and rapid vocab and grammar learning.
+*   **Writing and Literacy Learning Hub:** A full-stack morphological analysis tool built with Python (Django), HTMX, and Alpine.js designed to break down and map prefixes, roots, and suffixes for language learners with future Ai enhanced features to guide studnets into learning skills like essay development and rapid vocab and grammar learning.
 *   **Business Analytics Hub:** Coming soon, a collection of relational SQL schemas and Tableau dashboards tracking operational and educational data sets.
 
 ---
@@ -19,20 +19,21 @@ With a background in tracking student metrics and building performance framework
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend & Databases** | Python (Django), SQL, SQLite |
-| **Frontend Development** | JavaScript (ES6), HTMX, Alpine.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend & Databases** | Python (Django), SQL |
+| **Frontend Development** | JavaScript (ES6), HTML, HTMX, Alpine.js, Tailwind CSS, Vue.js, HTML5/CSS3 |
 | **Data Analytics & BI** | Tableau, Advanced Excel, Business Statistics |
-| **DevOps & Workflow** | Git/GitHub, Mac Terminal, Bitwarden Security |
+| **DevOps & Workflow** | Git/GitHub, Mac Terminal, Digital Ocean, Paas, Bitwarden Security |
 
 ---
 
 ### 📊 Professional Framework
-*   **Data-Driven Mindset:** Completing a professional certificate in Data Analytics covering advanced business statistics and predictive tracking frameworks.
-*   **Systems Thinker:** Translating linguistic structures into relational database data sets and highly responsive user interfaces.
+*   **Data-Driven Mindset:** Data Analytics Certified covering advanced business statistics and predictive tracking frameworks.
+*    *Licenses/Designations:** Licensed Educator specializing in literacy and curriculum development.
+*   **Systems Thinker:** Creating relational database data sets that pair with highly responsive user interfaces.
 *   **Agile Learner:** Moving fast from conceptual full-stack engineering to cloud deployment architecture.
 
 ---
 
-### 📈 GitHub Metrics
+<!-- ### 📈 GitHub Metrics
 ![Tom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomcalientodev&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomcalientodev&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomcalientodev&layout=compact&theme=radical&hide_border=true) -->
