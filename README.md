@@ -1,17 +1,17 @@
 # Hi, I'm Tom Caliento 👋
 
-I am a former literacy educator transitioning into **Business Analytics** and **Full-Stack Web Development**. I bridge the gap between complex structural systems (like language morphology) and data-driven business insights. 
+I specialize in Business Analytics, Full-Stack Web Development, Curriculum, Instruction and Literacy. 
 
 With a background in tracking student metrics and building performance frameworks, I use data analytics and web applications to solve real-world optimization problems.
 
 🌐 **View my live portfolio:** [tomcaliento.com](https://tomcaliento.com)
-💼 **Connect on LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url) *(← Replace with your actual link)*
+<!-- 💼 **Connect on LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url) *(← Replace with your actual link)* -->
 
 ---
 
 ### 🚀 What I'm Building Right Now
-*   **MorphoWrite:** A full-stack morphological analysis tool built with Python (Django), HTMX, and Alpine.js designed to break down and map prefixes, roots, and suffixes for language learners.
-*   **Business Analytics Hub:** A collection of relational SQL schemas and Tableau dashboards tracking operational and educational data sets.
+*   **MorphoWrite:** A full-stack morphological analysis tool built with Python (Django), HTMX, and Alpine.js designed to break down and map prefixes, roots, and suffixes for language learners with future Ai enhanced features to guide studnets into learning skills like essay development and rapid vocab and grammar learning.
+*   **Business Analytics Hub:** Coming soon, a collection of relational SQL schemas and Tableau dashboards tracking operational and educational data sets.
 
 ---
 
