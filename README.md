@@ -10,7 +10,7 @@ With a background in tracking student metrics and building performance framework
 ---
 
 ### 🚀 What I'm Building Right Now
-*   **Writing and Literacy Learning Hub:** A full-stack morphological analysis tool built with Python (Django), HTMX, and Alpine.js designed to break down and map prefixes, roots, and suffixes for language learners with future Ai enhanced features to guide studnets into learning skills like essay development and rapid vocab and grammar learning.
+*   **Writing and Literacy Learning Projects:** A full-stack morphological analysis tool built with Python (Django), HTMX, and Alpine.js designed to break down and map prefixes, roots, and suffixes for learners with future Ai enhanced features to guide students into learning skills like essay development, languages and rapid vocab and grammar learning. 
 *   **Business Analytics Hub:** Coming soon, a collection of relational SQL schemas and Tableau dashboards tracking operational and educational data sets.
 
 ---
@@ -20,9 +20,9 @@ With a background in tracking student metrics and building performance framework
 | Category | Technologies |
 | :--- | :--- |
 | **Backend & Databases** | Python (Django), SQL |
-| **Frontend Development** | JavaScript (ES6), HTML, HTMX, Alpine.js, Tailwind CSS, Vue.js, HTML5/CSS3 |
+| **Frontend Development** | JavaScript (ES6), HTML, HTMX, Alpine.js, CSS and Tailwind CSS, Vue.js, |
 | **Data Analytics & BI** | Tableau, Advanced Excel, Business Statistics |
-| **DevOps & Workflow** | Git/GitHub, Mac Terminal, Digital Ocean, Paas, Bitwarden Security |
+| **DevOps & Workflow** | Git/GitHub, Digital Ocean, Paas |
 
 ---
 
